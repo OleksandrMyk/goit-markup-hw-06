@@ -1006,12 +1006,13 @@ body {
 
 .modal-form-input:hover ~ .modal-form-svg,
 .modal-form-input:focus ~ .modal-form-svg {
-    fill: var(--blue-color);
+    fill: #2196f3;
 }
 
 .modal-form-text-link {
     margin-left: 5px;
     color: var(--accent-color);
+    text-decoration-line: underline;
 }
 
 .modal-form-button {
